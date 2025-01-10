@@ -6,6 +6,7 @@ This will be a list
 * one
 * two
 * three
+* four
 
 ```
 algorithm code block here
